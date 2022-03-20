@@ -61,5 +61,6 @@ function duplicateEncode(word){
 - Kazakh - Native
 - Russian - Advanced
 - Turkish - Novice
-- English - B2  
-https://www.efset.org/score/quickcheck/96?cid=ss010
+- English - C1/C2 according to (efset.org)
+ 
+![img](https://media-exp1.licdn.com/dms/image/sync/C4D27AQE0Y1MNUkIflw/articleshare-shrink_800/0/1647651370503?e=1647882000&v=beta&t=SrhS_HTdZCsIQqDrrHw-gj6A-XKyugaRAAGUIdCYLaQ)
