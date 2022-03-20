@@ -44,3 +44,9 @@ function duplicateEncode(word){
 - Udemy
 - Coursera
 - CS 50
+## Languages
+- Kazakh - Native
+- Russian - Advanced
+- Turkish - Novice
+- English - B2  
+https://www.efset.org/score/quickcheck/96?cid=ss010
