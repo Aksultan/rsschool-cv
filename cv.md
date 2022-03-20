@@ -1,7 +1,5 @@
 # Aksultan Zhumadil
 
-![img](https://static.wikia.nocookie.net/tomandjerry/images/d/da/Bd25d51ed7ad7378412075969d6b8181.jpg/revision/latest/scale-to-width-down/250?cb=20210224021512)
-
 ## Contacts
 - email: [aksultan.zhumadil@gmail.com](mailto:aksultan.zhumadil@gmail.com)
 
