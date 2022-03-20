@@ -34,7 +34,7 @@ The goal of this exercise is to convert a string to a new string where each char
 ```js
 function duplicateEncode(word){
     word = word.toLowerCase()
-    let repeats = [...word].reduce((a, e) => { a[e] = a[e] ? a[e] + 1 : 1; return a }, {})
+    let repeats = [...word].reduce((acc, letter) => { acc[letter] = acc[letter] ? acc[letter] + 1 : 1; return acc }, {})
     return [...word].map(char => repeats[char]>1?')':'(').join("")
 }
 ```
