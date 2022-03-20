@@ -38,3 +38,9 @@ function duplicateEncode(word){
 - 2019 - 2020 **Elefanto** (Web Developer php/css/html/js/angular-js)
 - 2021.01 - 2021.06 **Rocket Firm** (Front-end developer css/html/js/react)
 - 2021.08 - ~ **Rebel** (Front-end developer scss/html/js/vue)
+## Education
+- 2015 - 2019 **Suleyman Demirel University** (bachelors in cs)
+- Youtube
+- Udemy
+- Coursera
+- CS 50
