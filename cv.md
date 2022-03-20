@@ -38,6 +38,11 @@ function duplicateEncode(word){
 - 2019 - 2020 **Elefanto** (Web Developer php/css/html/js/angular-js)
 - 2021.01 - 2021.06 **Rocket Firm** (Front-end developer css/html/js/react)
 - 2021.08 - ~ **Rebel** (Front-end developer scss/html/js/vue)
+
+### React Simple Weather App 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aksultan&repo=weather-app)](https://github.com/Aksultan/weather-app)
+
 ## Education
 - 2015 - 2019 **Suleyman Demirel University** (bachelors in cs)
 - Youtube
