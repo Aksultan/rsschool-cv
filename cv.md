@@ -6,11 +6,7 @@
 [![img](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Decruse#2981)
 [![img](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Penguinshaveknees)
 ## About
-Currently, employed front-end developer.
-- 2015 - 2019 **Suleyman Demirel University** (bachelors in cs)
-- 2019 - 2020 **Elefanto** (Web Developer php/css/html/js/angular-js)
-- 2021.01 - 2021.06 **Rocket Firm** (Front-end developer css/html/js/react)
-- 2021.08 - ~ **Rebel** (Front-end developer scss/html/js/vue)
+Currently, employed  24 years old front-end developer. I like reading/watching sci-fi, adventure related books/movies. Learning to play on the electric guitar :guitar: . Discovering/learning/experiencing something new is my passion in life.
 ## Skills
 ![img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,3 +34,7 @@ function duplicateEncode(word){
     return [...word].map(char => repeats[char]>1?')':'(').join("")
 }
 ```
+## Experience
+- 2019 - 2020 **Elefanto** (Web Developer php/css/html/js/angular-js)
+- 2021.01 - 2021.06 **Rocket Firm** (Front-end developer css/html/js/react)
+- 2021.08 - ~ **Rebel** (Front-end developer scss/html/js/vue)
