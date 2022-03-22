@@ -63,4 +63,4 @@ function duplicateEncode(word){
 - Turkish - Novice
 - English - C1/C2 according to (efset.org)
  
-![img](https://media-exp1.licdn.com/dms/image/sync/C4D27AQE0Y1MNUkIflw/articleshare-shrink_800/0/1647651370503?e=1647882000&v=beta&t=SrhS_HTdZCsIQqDrrHw-gj6A-XKyugaRAAGUIdCYLaQ)
+![img](./assets/english-level.png)
